@@ -1,6 +1,6 @@
 package KR_2;
 
-public class Product implements Displayable {
+public class Product implements Displayable{
     private String name;
     private double price;
     private int quantity;
